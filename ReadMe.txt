@@ -1,4 +1,3 @@
-# ACHA2016
 % ========================================================================
 % Relaxed Collaborative Representation, Version 1.0
 % Copyright(c) 2016 Braxton Osting, Jiechao Xiong, Qianqian Xu, and Yuan Yao
